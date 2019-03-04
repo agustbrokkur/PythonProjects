@@ -1,0 +1,12 @@
+Quicksort
+Heapsort
+Merge sort
+Timsort
+Shell sort
+Cocktail Sort
+Comb Sort
+Gnome sort
+Gravity sort
+Counting Sort
+LSD Radix sort
+MSD Radix Sort
